@@ -1,0 +1,4 @@
+openai
+sqlalchemy
+mysql-connector-python
+colorama
