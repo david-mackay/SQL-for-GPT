@@ -3,6 +3,8 @@
 ## Introduction
 SQL for GPT allows you to use Natural Language to perform SQL operations on your database
 
+Currently configured to use ChatGPT 3.5 because it's just so much cheaper. But maybe if you use GPT-4 you'd get it to figure out IDs.
+
 ## Features
 - **SQL Query Execution**: Execute SQL queries seamlessly through natural language right from your command line.
 - **Database Schema Description**: Send ChatGPT a schema of your database tables at the beginning of the conversation.
