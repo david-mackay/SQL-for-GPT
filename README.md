@@ -1,12 +1,11 @@
 
-# NQL - Natural Query Language
-
+# SQL for GPT
 ## Introduction
-NQL allows you to use Natural Language to perform SQL operations on your database
+SQL for GPT allows you to use Natural Language to perform SQL operations on your database
 
 ## Features
 - **SQL Query Execution**: Execute SQL queries seamlessly through natural language right from your command line.
-- **Database Schema Description**: Send ChatGPT a schema of your database tables at the beginning of th conversation.
+- **Database Schema Description**: Send ChatGPT a schema of your database tables at the beginning of the conversation.
 - **Integration with OpenAI**: Leverage OpenAI's capabilities for advanced operations. (Let ChatGPT figure out that crazy Inner Join Query!)
 
 ## Requirements
@@ -18,7 +17,7 @@ NQL allows you to use Natural Language to perform SQL operations on your databas
 1. **Clone the Repository**:
    ```
    git clone https://github.com/david-mackay/SQL-for-GPT.git
-   cd sqlbuddy
+   cd SQL-for-GPT
    ```
 
 2. **Install Dependencies**:
@@ -57,7 +56,7 @@ NQL allows you to use Natural Language to perform SQL operations on your databas
    Follow the prompts in the application to execute SQL queries and view database schema.
 
 ## Contributing
-Contributions to the SQL-for-GPT  project are welcome. Please ensure to follow coding standards and submit pull requests for any new features or bug fixes. Prompt improvements and better usage of openAI's python package are super appreciated!.
+Contributions to the SQL-for-GPT project are welcome. Please ensure to follow coding standards and submit pull requests for any new features or bug fixes. Prompt improvements and better usage of openAI's python package are super appreciated!.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
