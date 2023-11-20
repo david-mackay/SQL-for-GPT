@@ -57,7 +57,7 @@ NQL allows you to use Natural Language to perform SQL operations on your databas
    Follow the prompts in the application to execute SQL queries and view database schema.
 
 ## Contributing
-Contributions to the SQL Buddy project are welcome. Please ensure to follow coding standards and submit pull requests for any new features or bug fixes. Prompt improvements and better usage of openAI's python package are super appreciated!.
+Contributions to the SQL-for-GPT  project are welcome. Please ensure to follow coding standards and submit pull requests for any new features or bug fixes. Prompt improvements and better usage of openAI's python package are super appreciated!.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
